@@ -46,10 +46,10 @@ Run the terminal:
 # TO run
 python terminal.py
 Start typing commands:
-> help
-> list
-> clear
-> cd D:\Projects
+> help |
+> list |
+> clear |
+> cd D:\Projects |
 > ls
 
 🧠 Built-in Commands
