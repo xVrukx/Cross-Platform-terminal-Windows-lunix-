@@ -36,3 +36,69 @@ A fully functional, customizable terminal application written in Python. Designe
 Install dependencies:
 ```bash
 pip install colorama pyreadline3
+
+🚀 Getting Started
+Clone the repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/vrukcodes/custom-python-terminal
+cd custom-python-terminal
+Run the terminal:
+
+bash
+Copy
+Edit
+python terminal.py
+Start typing commands:
+
+bash
+Copy
+Edit
+> help
+> list
+> clear
+> cd D:\Projects
+> ls
+🧠 Built-in Commands
+Command	Description
+help	Show available commands
+clear	Clear the terminal screen
+list	List current directory
+exit	Exit the terminal
+
+✅ Supports executing any valid system command too.
+
+🛠 Future Enhancements
+ Piping and redirection (ls | grep, > support)
+
+ Config file for custom commands
+
+ Bash-style scripting support
+
+ Portable .exe build for Windows
+
+ Audio command support (using Vosk)
+
+💡 Use Cases
+Raspberry Pi cyberdeck terminals
+
+Lightweight CLI for custom OS setups
+
+Command-line tools launcher
+
+Educational terminal project
+
+📸 Screenshots
+(Optional: Add terminal screenshots here later)
+
+👨‍💻 Author
+Vruk (a.k.a vrukcodes)
+Student | Python Dev | Cyberdeck Builder
+📫 Connect on GitHub
+
+📄 License
+MIT License – free to use, modify, and distribute.
+
+
