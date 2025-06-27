@@ -34,33 +34,24 @@ A fully functional, customizable terminal application written in Python. Designe
 > 💡 On Linux, use `readline`; on Windows, use `pyreadline3`.
 
 Install dependencies:
-```bash
+
 pip install colorama pyreadline3
 
 🚀 Getting Started
 Clone the repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/vrukcodes/custom-python-terminal
 cd custom-python-terminal
 Run the terminal:
 
-bash
-Copy
-Edit
+# TO run
 python terminal.py
 Start typing commands:
-
-bash
-Copy
-Edit
 > help
 > list
 > clear
 > cd D:\Projects
 > ls
+
 🧠 Built-in Commands
 Command	Description
 help	Show available commands
