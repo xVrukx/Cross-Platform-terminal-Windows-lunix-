@@ -16,13 +16,6 @@ A fully functional, customizable terminal application written in Python. Designe
 
 ---
 
-## 🖥️ Demo
-
----![1750579824146](https://github.com/user-attachments/assets/2e5abba0-cd4b-4d57-836e-3e832393d3b8)
-
----![1750579833437](https://github.com/user-attachments/assets/0da78ba2-ca0b-4e47-9b7d-44220fc46f71)
-
-
 ## 📦 Requirements
 
 | Module      | Purpose                        |
@@ -91,7 +84,12 @@ Command-line tools launcher
 Educational terminal project
 
 📸 Screenshots
-(Optional: Add terminal screenshots here later)
+
+
+---![1750579824146](https://github.com/user-attachments/assets/2e5abba0-cd4b-4d57-836e-3e832393d3b8)
+
+---![1750579833437](https://github.com/user-attachments/assets/0da78ba2-ca0b-4e47-9b7d-44220fc46f71)
+
 
 👨‍💻 Author
 Vruk (a.k.a vrukcodes)
